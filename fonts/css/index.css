@@ -1,0 +1,41 @@
+body{
+    font-family: 'Montserrat', Helvetica, sans-serif;
+    font-size: 18px;
+    padding: 0;
+    margin: 0;
+}
+
+h1, h2 {
+    font-family: 'Indie Flower', Helvetica, sans-serif;
+    font-size: 30px;
+}
+
+header p {
+    font-variant: small-caps;
+}
+
+.tag-line {
+    font-variant: small-caps;
+}
+
+.sec1 {
+    background-color: #999;
+}
+
+.sec2 {
+    background-color: aqua;
+}
+
+header, section {
+    padding: 1em;
+}
+
+a{
+    text-decoration: none;
+}
+
+svg {
+    height: 2em;
+    fill: beige;
+    stroke: blueviolet;
+}
